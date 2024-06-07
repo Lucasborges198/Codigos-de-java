@@ -1,6 +1,6 @@
 
 public class main {
-    public static void main(String[] args) {
+    public static void mainn(String[] args) {
         int x = 5;
         int y = 10;
         double conta = (double) y / x; // Convertendo y para double para evitar truncamento de inteiros
